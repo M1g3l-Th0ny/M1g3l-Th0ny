@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Miggy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello there👋, I'm Miggy</h1>
+<h3 align="center">A passionate programmer from President University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1g3l-th0ny&label=Profile%20views&color=0e75b6&style=flat" alt="m1g3l-th0ny" /> </p>
 
