@@ -1,4 +1,4 @@
-<h1 align="center">Hello there👋, I'm Miggy</h1> 
+<h1 align="center">Hello there👋, I'm Miggy!!</h1> 
 <img width="591" height="500" alt="Image" src="https://github.com/user-attachments/assets/ff9c918f-974f-4a33-a034-b09d9cf8a4fd" />
 <h3 align="center">A passionate programmer from President University</h3>
 
